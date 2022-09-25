@@ -16,21 +16,27 @@ jobs:
             git checkout master
             git branch --set-upstream-to=origin/master
             git pull
-            ls -a
-        shell: bash
-
-      - name: "Building dotnet project"
-        run: |
-            pwd
             dotnet restore
             dotnet build
             dotnet publish
-      - name: list of files
-        run: ls
-      - name: pushing the build file to repos
-        run: |
-            git remote add upstream "https://${GITHUB_ACTOR}:${{secrets.GITHHUB_TOKEN}}@github.com/${GITHUB_REPOSITORY}.git"
             git add -A
             git commit -m "commiting build file"
             git push -u origin master
+            ls -a
         shell: bash
+
+      # - name: "Building dotnet project"
+      #   run: |
+      #       pwd
+      #       dotnet restore
+      #       dotnet build
+      #       dotnet publish
+      # - name: list of files
+      #   run: ls
+      # - name: pushing the build file to repos
+      #   run: |
+      #       git remote add upstream "https://${GITHUB_ACTOR}:${{secrets.GITHHUB_TOKEN}}@github.com/${GITHUB_REPOSITORY}.git"
+      #       git add -A
+      #       git commit -m "commiting build file"
+      #       git push -u origin master
+      #   shell: bash
