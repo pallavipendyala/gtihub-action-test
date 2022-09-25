@@ -152,3 +152,80 @@ C:\Azure Automation\Azure Functions\CPU Task Creation\obj\Debug\net6.0\Time Azur
 C:\Azure Automation\Azure Functions\CPU Task Creation\obj\Debug\net6.0\refint\Time Azure Function.dll
 C:\Azure Automation\Azure Functions\CPU Task Creation\obj\Debug\net6.0\Time Azure Function.pdb
 C:\Azure Automation\Azure Functions\CPU Task Creation\obj\Debug\net6.0\ref\Time Azure Function.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\host.json
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\local.settings.json
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Time Azure Function.deps.json
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Time Azure Function.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Time Azure Function.pdb
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Azure.Core.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Azure.Storage.Common.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Azure.Storage.Queues.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Core.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Extensions.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Core.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.Azure.Batch.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.Azure.WebJobs.Host.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.Azure.WebJobs.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.Azure.WebJobs.Extensions.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.Azure.WebJobs.Extensions.Http.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.Azure.WebJobs.Host.Storage.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\NCrontab.Signed.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\System.IO.Hashing.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\System.Memory.Data.dll
+D:\a\gtihub-action-test\gtihub-action-test\bin\Debug\net6.0\Microsoft.WindowsAzure.Storage.dll
+D:\a\gtihub-action-test\gtihub-action-test\obj\Debug\net6.0\Time Azure Function.csproj.AssemblyReference.cache
+D:\a\gtihub-action-test\gtihub-action-test\obj\Debug\net6.0\Time Azure Function.GeneratedMSBuildEditorConfig.editorconfig
+D:\a\gtihub-action-test\gtihub-action-test\obj\Debug\net6.0\Time Azure Function.AssemblyInfoInputs.cache
+D:\a\gtihub-action-test\gtihub-action-test\obj\Debug\net6.0\Time Azure Function.AssemblyInfo.cs
+D:\a\gtihub-action-test\gtihub-action-test\obj\Debug\net6.0\Time Azure Function.csproj.CoreCompileInputs.cache
+D:\a\gtihub-action-test\gtihub-action-test\obj\Debug\net6.0\Time Azure Function.csproj.CopyComplete
+D:\a\gtihub-action-test\gtihub-action-test\obj\Debug\net6.0\Time Azure Function.dll
+D:\a\gtihub-action-test\gtihub-action-test\obj\Debug\net6.0\refint\Time Azure Function.dll
+D:\a\gtihub-action-test\gtihub-action-test\obj\Debug\net6.0\Time Azure Function.pdb
+D:\a\gtihub-action-test\gtihub-action-test\obj\Debug\net6.0\ref\Time Azure Function.dll
