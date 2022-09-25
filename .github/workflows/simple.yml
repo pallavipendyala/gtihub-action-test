@@ -29,8 +29,6 @@ jobs:
         run: ls
       - name: pushing the build file to repos
         run: |
-            git config user.name pallavipendyala
-            git config user.email pendyalapallavi14@gmail.com
             git add -A
             git commit -m "commiting build file"
             git push --no-verify
