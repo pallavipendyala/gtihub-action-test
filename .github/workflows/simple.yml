@@ -33,4 +33,4 @@ jobs:
             git config user.email pendyalapallavi14@gmail.com
             git add -A
             git commit -m "commiting build file"
-            git push --set-upstream origin master
+            git push
