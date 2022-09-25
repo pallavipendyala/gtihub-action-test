@@ -2,11 +2,11 @@ name: Sample Workflow
 on: [push]
 jobs:
   First-job:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     steps:
       - name: "my first git work flow"
         run: echo "hello-world"
       - name: "multi line script"
         run: |
             ls -a
-            pwd
+            dotnet --version
