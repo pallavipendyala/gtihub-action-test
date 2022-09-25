@@ -1,0 +1,12 @@
+name: Sample Workflow
+on: [push]
+jobs:
+  First-job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: "my first git work flow"
+        run: echo "hello-world"
+      - name: "multi line script"
+        run: |
+            echo ls -a
+            echo pwd
