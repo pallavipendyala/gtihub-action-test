@@ -16,11 +16,13 @@ jobs:
             git checkout master
             git branch --set-upstream-to=origin/master
             git pull
+            ls -a
         shell: bash
 
       - name: "Building dotnet project"
         run: |
-            dotnet restore Time Azure Function.csproj
+            pwd
+            dotnet restore
             dotnet build Time Azure Function.csproj --c "Release"
             dotnet publish Time Azure Function.csproj --c "Release"
       - name: list of files
