@@ -8,5 +8,5 @@ jobs:
         run: echo "hello-world"
       - name: "multi line script"
         run: |
-            echo ls -a
-            echo pwd
+            ls -a
+            pwd
