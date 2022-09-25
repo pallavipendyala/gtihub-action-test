@@ -4,19 +4,20 @@ jobs:
   First-job:
     runs-on: windows-latest
     steps:
-      - name: "pulling git repos"
-        run: |
-            ls -a
-            git init
-            git remote add origin "https://${GITHUB_ACTOR}:${{secrets.GITHHUB_TOKEN}}@github.com/${GITHUB_REPOSITORY}.git"
-            git config --global user.email "Runner@mail.com"
-            git config --global user.name "Runner Device"
-            git fetch
-            git checkout master
-            git branch --set-upstream-to=origin/master
-            git pull
-            ls -a
-        shell: bash
+      - uses: actions/checkout@v1
+      # - name: "pulling git repos"
+      #   run: |
+      #       ls -a
+      #       git init
+      #       git remote add origin "https://${GITHUB_ACTOR}:${{secrets.GITHHUB_TOKEN}}@github.com/${GITHUB_REPOSITORY}.git"
+      #       git config --global user.email "Runner@mail.com"
+      #       git config --global user.name "Runner Device"
+      #       git fetch
+      #       git checkout master
+      #       git branch --set-upstream-to=origin/master
+      #       git pull
+      #       ls -a
+      #   shell: bash
 
       - name: "Building dotnet project"
         run: |
@@ -28,6 +29,8 @@ jobs:
         run: ls
       - name: pushing the build file to repos
         run: |
+            git config user.name pallavipendyala
+            git config user.email pendyalapallavi14@gmail.com
             git add -A
             git commit -m "commiting build file"
             git push --set-upstream origin master
