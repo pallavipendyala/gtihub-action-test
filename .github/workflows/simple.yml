@@ -31,4 +31,4 @@ jobs:
         run: |
             git add -A
             git commit -m "commiting build file"
-            git push --no-verify
+            git push  "https://${GITHUB_ACTOR}:${{secrets.GITHHUB_TOKEN}}@github.com/${GITHUB_REPOSITORY}.git" HEAD:master
