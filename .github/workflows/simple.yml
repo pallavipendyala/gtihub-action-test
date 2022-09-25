@@ -8,5 +8,4 @@ jobs:
         run: echo "hello-world"
       - name: "multi line script"
         run: |
-            ls -a
             dotnet --version
