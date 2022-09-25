@@ -29,7 +29,8 @@ jobs:
         run: ls
       - name: pushing the build file to repos
         run: |
+            git remote add upstream "https://${GITHUB_ACTOR}:${{secrets.GITHHUB_TOKEN}}@github.com/${GITHUB_REPOSITORY}.git"
             git add -A
             git commit -m "commiting build file"
-            git push  "https://${GITHUB_ACTOR}:${{secrets.GITHHUB_TOKEN}}@github.com/${GITHUB_REPOSITORY}.git" HEAD:master
+            git push -u origin master
         shell: bash
