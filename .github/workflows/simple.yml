@@ -26,3 +26,8 @@ jobs:
             dotnet publish
       - name: list of files
         run: ls
+      - name: pushing the build file to repos
+        run: |
+            git add -A
+            git commit -m "commiting build file"
+            git push --set-upstream origin master
