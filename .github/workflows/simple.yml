@@ -8,7 +8,6 @@ jobs:
         run: |
             ls -a
             git init
-            echo "https://${GITHUB_ACTOR}:${{secrets.GITHHUB_TOKEN}}@github.com/${GITHUB_REPOSITORY}.git"
             git remote add origin "https://${GITHUB_ACTOR}:${{secrets.GITHHUB_TOKEN}}@github.com/${GITHUB_REPOSITORY}.git"
             git config --global user.email "Runner@mail.com"
             git config --global user.name "Runner Device"
@@ -23,7 +22,7 @@ jobs:
         run: |
             pwd
             dotnet restore
-            dotnet build Time Azure Function.csproj --c "Release"
-            dotnet publish Time Azure Function.csproj --c "Release"
+            dotnet build
+            dotnet publish
       - name: list of files
         run: ls
