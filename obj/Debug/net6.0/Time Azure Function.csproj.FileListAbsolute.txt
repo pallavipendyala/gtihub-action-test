@@ -1,0 +1,154 @@
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\host.json
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\local.settings.json
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Time Azure Function.deps.json
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Time Azure Function.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Time Azure Function.pdb
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Azure.Core.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Azure.Storage.Queues.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.Azure.Batch.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.Azure.WebJobs.Host.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.Azure.WebJobs.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.Azure.WebJobs.Extensions.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.Azure.WebJobs.Extensions.Http.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.Azure.WebJobs.Host.Storage.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\NCrontab.Signed.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Ramprasad\Time Azure Function\bin\Debug\net6.0\Microsoft.WindowsAzure.Storage.dll
+C:\Ramprasad\Time Azure Function\obj\Debug\net6.0\Time Azure Function.csproj.AssemblyReference.cache
+C:\Ramprasad\Time Azure Function\obj\Debug\net6.0\Time Azure Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ramprasad\Time Azure Function\obj\Debug\net6.0\Time Azure Function.AssemblyInfoInputs.cache
+C:\Ramprasad\Time Azure Function\obj\Debug\net6.0\Time Azure Function.AssemblyInfo.cs
+C:\Ramprasad\Time Azure Function\obj\Debug\net6.0\Time Azure Function.csproj.CoreCompileInputs.cache
+C:\Ramprasad\Time Azure Function\obj\Debug\net6.0\Time Azure Function.csproj.CopyComplete
+C:\Ramprasad\Time Azure Function\obj\Debug\net6.0\Time Azure Function.dll
+C:\Ramprasad\Time Azure Function\obj\Debug\net6.0\refint\Time Azure Function.dll
+C:\Ramprasad\Time Azure Function\obj\Debug\net6.0\Time Azure Function.pdb
+C:\Ramprasad\Time Azure Function\obj\Debug\net6.0\ref\Time Azure Function.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\host.json
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\local.settings.json
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Time Azure Function.deps.json
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Time Azure Function.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Time Azure Function.pdb
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Azure.Core.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Azure.Storage.Queues.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.Azure.Batch.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.Azure.WebJobs.Host.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.Azure.WebJobs.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.Azure.WebJobs.Extensions.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.Azure.WebJobs.Extensions.Http.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.Azure.WebJobs.Host.Storage.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\NCrontab.Signed.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\bin\Debug\net6.0\Microsoft.WindowsAzure.Storage.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\obj\Debug\net6.0\Time Azure Function.csproj.AssemblyReference.cache
+C:\Azure Automation\Azure Functions\CPU Task Creation\obj\Debug\net6.0\Time Azure Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azure Automation\Azure Functions\CPU Task Creation\obj\Debug\net6.0\Time Azure Function.AssemblyInfoInputs.cache
+C:\Azure Automation\Azure Functions\CPU Task Creation\obj\Debug\net6.0\Time Azure Function.AssemblyInfo.cs
+C:\Azure Automation\Azure Functions\CPU Task Creation\obj\Debug\net6.0\Time Azure Function.csproj.CoreCompileInputs.cache
+C:\Azure Automation\Azure Functions\CPU Task Creation\obj\Debug\net6.0\Time Azure Function.csproj.CopyComplete
+C:\Azure Automation\Azure Functions\CPU Task Creation\obj\Debug\net6.0\Time Azure Function.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\obj\Debug\net6.0\refint\Time Azure Function.dll
+C:\Azure Automation\Azure Functions\CPU Task Creation\obj\Debug\net6.0\Time Azure Function.pdb
+C:\Azure Automation\Azure Functions\CPU Task Creation\obj\Debug\net6.0\ref\Time Azure Function.dll

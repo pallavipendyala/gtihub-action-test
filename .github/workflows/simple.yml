@@ -4,8 +4,22 @@ jobs:
   First-job:
     runs-on: windows-latest
     steps:
-      - name: "my first git work flow"
-        run: echo "hello-world"
-      - name: "multi line script"
+      - name: "pulling git repos"
         run: |
-            dotnet --version
+            ls
+            git init
+            git remote add origin "https://$GITHUB_ACTOR:${{secrets.GITHHUB_TOKEN}}@github.com/$GITHUB_REPOSITORY.git"
+            git config --global user.email "Runner@mail.com"
+            git config --global user.name "Runner Device"
+            git fetch
+            git checkout master
+            git branch --set-upstream-to=origin/master
+            git pull
+
+      - name: "Building dotnet project"
+        run: |
+            dotnet restore Time Azure Function.csproj
+            dotnet build Time Azure Function.csproj --c "Release"
+            dotnet publish Time Azure Function.csproj --c "Release"
+      - name: list of files
+        run: ls

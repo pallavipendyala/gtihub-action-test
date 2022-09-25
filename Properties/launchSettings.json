@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Time_Azure_Function": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7089",
+      "launchBrowser": false
+    }
+  }
+}
