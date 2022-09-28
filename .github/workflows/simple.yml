@@ -2,7 +2,7 @@ name: Sample Workflow
 on: [push]
 jobs:
   First-job:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Set up coverlet
         run: dotnet tool install -g coverlet.console
