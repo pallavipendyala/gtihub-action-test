@@ -39,11 +39,11 @@ jobs:
           .\.sonar\scanner\dotnet-sonarscanner begin /k:"pallavipendyala_gtihub-action-test" /o:"pallavipendyala" /d:sonar.login="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io" /d:sonar.cs.opencover.reposrtPaths="coverage.opencover.xml" /d:sonar.cs.vstest.reportsPaths="TestResults\*.trx"
           dotnet build
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
-        - name: SonarQube Scan
-          uses: sonarsource/sonarqube-scan-action@master
-          env:
-            SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
-            SONAR_HOST_URL: ${{ secrets.SONAR_HOST_URL }}
+      - name: SonarQube Scan
+        uses: sonarsource/sonarqube-scan-action@master
+        env:
+          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+          SONAR_HOST_URL: ${{ secrets.SONAR_HOST_URL }}
       - name: SonarQube Quality Gate check
         id: sonarqube-quality-gate-check
         uses: sonarsource/sonarqube-quality-gate-action@master
