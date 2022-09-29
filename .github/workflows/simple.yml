@@ -39,7 +39,6 @@ jobs:
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
       - name: SonarQube Scan
         uses: sonarsource/sonarcloud-github-action@master
-        with:
           args: >
             -Dsonar.organization=pallavipendyala
             -Dsonar.projectKey=pallavipendyala_gtihub-action-test
