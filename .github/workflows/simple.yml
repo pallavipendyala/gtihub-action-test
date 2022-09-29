@@ -14,10 +14,6 @@ jobs:
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
           SONAR_HOST_URL: ${{ secrets.SONAR_HOST_URL }}
-      - name: steps json
-        env:
-          STEP_CONTEXT: ${{toJson(steps)}}
-        run: echo "$STEP_CONTEXT"
       - name: SonarQube Quality Gate check
         id: sonarqube-quality-gate-check
         uses: sonarsource/sonarqube-quality-gate-action@master
@@ -30,6 +26,10 @@ jobs:
         run: |
           echo "output ${{ steps.sonarqube-quality-gate-action.outputs}}"
           echo "The Quality Gate status is ${{ steps.sonarqube-quality-gate-action.outputs.quality-gate-status }}"
+      - name: steps json
+        env:
+          STEP_CONTEXT: ${{toJson(steps)}}
+        run: echo "$STEP_CONTEXT"
 
     # steps:
     #   - uses: actions/checkout@v1
